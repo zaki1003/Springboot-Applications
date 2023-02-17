@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ms-bourse/ms-bourse.iml" filepath="$PROJECT_DIR$/ms-bourse/ms-bourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-formation/ms-formation.iml" filepath="$PROJECT_DIR$/ms-formation/ms-formation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-scolarity/ms-scolarity.iml" filepath="$PROJECT_DIR$/ms-scolarity/ms-scolarity.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+FROM openjdk:17-jdk-alpine
+COPY target/apiG*.jar apiG.jar
+ENTRYPOINT ["java","-jar","/apiG"]
+expose 7777
